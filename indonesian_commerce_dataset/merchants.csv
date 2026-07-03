@@ -1,0 +1,952 @@
+merchant_id,hub_id,merchant_name,business_category,subscription_fee
+3,2,Sate Rakyat,Food & Beverage,0.0
+6,3,Kopi Nusantara,Food & Beverage,0.0
+8,3,Roti Bakar Society,Food & Beverage,0.0
+53,8,Dimsum Daily,Food & Beverage,0.0
+54,8,Dimsum Daily,Food & Beverage,0.0
+56,8,Rice Bowl Station,Food & Beverage,49.0
+58,8,Sate Rakyat,Food & Beverage,49.0
+82,8,Kedai Kopi Santai,Food & Beverage,0.0
+83,8,Seblak Corner,Food & Beverage,0.0
+84,8,Martabak Legit,Food & Beverage,49.0
+85,8,Bakso Rakyat,Food & Beverage,0.0
+88,8,GadgetPoint,Retail Goods,0.0
+89,8,Kopi Nusantara,Food & Beverage,49.0
+90,8,Seblak Corner,Food & Beverage,49.0
+95,8,Bakmi Express,Food & Beverage,49.0
+96,5,Dimsum Daily,Food & Beverage,0.0
+99,8,Dapur Nusantara,Food & Beverage,0.0
+100,8,Pecel Lele Juara,Food & Beverage,49.9
+122,4,UrbanWear,Retail Goods,0.0
+141,8,Kedai Kopi Santai,Food & Beverage,0.0
+144,8,Bakmi Express,Food & Beverage,49.9
+149,8,Kedai Kopi Santai,Food & Beverage,0.0
+164,8,Modern Mart,Retail Goods,0.0
+187,13,Dimsum Daily,Food & Beverage,49.0
+189,13,Nasi Goreng Express,Food & Beverage,49.0
+191,13,Martabak Legit,Food & Beverage,49.0
+228,8,Skincare Society,Retail Goods,0.0
+232,16,Kopi Nusantara,Food & Beverage,0.0
+236,13,Kedai Matcha,Food & Beverage,0.0
+245,18,Bakso Rakyat,Food & Beverage,0.0
+261,18,Soto Nusantara,Food & Beverage,49.0
+264,8,Skincare Society,Retail Goods,0.0
+274,16,Rice Bowl Station,Food & Beverage,0.0
+294,13,Bakmi Express,Food & Beverage,0.0
+295,8,Beauty Avenue,Retail Goods,29.9
+311,13,DailyMart,Retail Goods,29.0
+321,17,Seblak Corner,Food & Beverage,0.0
+339,17,Warung Sambal Juara,Food & Beverage,49.9
+342,13,DailyMart,Retail Goods,0.0
+345,13,Ayam Bakar Premium,Food & Beverage,49.0
+356,21,Ayam Bakar Premium,Food & Beverage,49.9
+357,22,Pecel Lele Juara,Food & Beverage,0.0
+361,22,Roti Bakar Society,Food & Beverage,0.0
+365,20,Ayam Geprek Juara,Food & Beverage,49.9
+366,20,Nasi Goreng Express,Food & Beverage,49.0
+367,20,Kedai Kopi Santai,Food & Beverage,49.0
+370,20,Sate Rakyat,Food & Beverage,49.0
+371,20,Warung Sambal Juara,Food & Beverage,0.0
+373,20,Seblak Corner,Food & Beverage,49.0
+377,20,Smart Living Store,Retail Goods,0.0
+378,21,Mie Pedas Juara,Food & Beverage,49.9
+383,21,Pecel Lele Juara,Food & Beverage,49.9
+387,22,Ayam Bakar Premium,Food & Beverage,49.0
+390,17,Martabak Legit,Food & Beverage,49.9
+391,20,Bakmi Express,Food & Beverage,0.0
+399,13,Seblak Corner,Food & Beverage,0.0
+406,20,Ayam Geprek Juara,Food & Beverage,49.0
+409,16,Dimsum Daily,Food & Beverage,0.0
+414,13,Mie Pedas Juara,Food & Beverage,0.0
+415,8,Seblak Corner,Food & Beverage,
+416,21,Dimsum Daily,Food & Beverage,0.0
+417,20,Sate Rakyat,Food & Beverage,0.0
+426,20,Warung Sambal Juara,Food & Beverage,
+430,21,Roti Bakar Society,Food & Beverage,0.0
+435,16,Nasi Goreng Express,Food & Beverage,49.9
+439,16,Ayam Bakar Premium,Food & Beverage,49.9
+446,20,HomeLiving Mart,Retail Goods,29.0
+447,21,Fashion Hub,Retail Goods,29.0
+453,20,Ayam Bakar Premium,Food & Beverage,49.0
+462,18,Bakmi Express,Food & Beverage,49.0
+476,20,Skincare Society,Retail Goods,29.0
+482,25,Glow Beauty,Retail Goods,49.9
+490,22,Pecel Lele Juara,Food & Beverage,49.9
+491,16,HomeLiving Mart,Retail Goods,29.9
+493,25,Kedai Kopi Santai,Food & Beverage,49.9
+495,25,Dimsum Daily,Food & Beverage,0.0
+496,26,Kedai Matcha,Food & Beverage,
+497,13,Nasi Goreng Express,Food & Beverage,0.0
+501,25,Warung Sambal Juara,Food & Beverage,49.9
+508,20,Roti Bakar Society,Food & Beverage,49.0
+515,18,Kedai Kopi Santai,Food & Beverage,49.0
+520,26,Dimsum Daily,Food & Beverage,49.9
+524,3,Beauty Avenue,Retail Goods,49.9
+525,25,Ayam Geprek Juara,Food & Beverage,49.9
+529,20,Dimsum Daily,Food & Beverage,49.0
+531,16,Ayam Geprek Juara,Food & Beverage,49.9
+532,13,Beauty Avenue,Retail Goods,29.9
+540,22,Digital Lifestyle,Retail Goods,49.0
+545,3,Roti Bakar Society,Food & Beverage,49.9
+555,20,Seblak Corner,Food & Beverage,49.0
+563,3,Bakmi Express,Food & Beverage,49.9
+564,20,Martabak Legit,Food & Beverage,49.9
+582,16,Soto Nusantara,Food & Beverage,49.9
+585,21,Sneaker Nation,Retail Goods,29.9
+586,26,Mie Ayam Corner,Food & Beverage,49.9
+587,8,Warung Sambal Juara,Food & Beverage,
+590,20,Nasi Goreng Express,Food & Beverage,49.0
+591,27,Rice Bowl Station,Food & Beverage,49.9
+595,27,Skincare Society,Retail Goods,49.9
+599,21,TechHub Store,Retail Goods,
+600,21,Trendify,Retail Goods,29.9
+603,27,Smart Living Store,Retail Goods,29.9
+604,16,Kedai Kopi Santai,Food & Beverage,49.9
+605,16,Skincare Society,Retail Goods,49.9
+606,8,Style Avenue,Retail Goods,
+607,27,Bakso Rakyat,Food & Beverage,49.9
+616,18,Martabak Legit,Food & Beverage,49.0
+622,28,Warung Sambal Juara,Food & Beverage,49.9
+623,28,Ayam Bakar Premium,Food & Beverage,49.9
+624,28,Dimsum Daily,Food & Beverage,49.9
+626,28,TechHub Store,Retail Goods,29.9
+627,27,Urban Essentials,Retail Goods,29.9
+629,8,Mie Ayam Corner,Food & Beverage,
+631,28,Seblak Corner,Food & Beverage,
+632,28,Ayam Geprek Juara,Food & Beverage,
+633,21,DailyMart,Retail Goods,49.9
+640,28,TechHub Store,Retail Goods,49.0
+641,26,HomeLiving Mart,Retail Goods,29.9
+644,13,Bakso Rakyat,Food & Beverage,
+646,21,Pecel Lele Juara,Food & Beverage,49.9
+648,27,Seblak Corner,Food & Beverage,49.9
+651,27,Warung Sambal Juara,Food & Beverage,49.9
+652,25,Digital Lifestyle,Retail Goods,29.9
+656,3,Pecel Lele Juara,Food & Beverage,0.01
+657,21,Electronic City,Retail Goods,29.9
+658,29,Dapur Nusantara,Food & Beverage,
+659,29,Roti Bakar Society,Food & Beverage,
+660,16,Kedai Kopi Santai,Food & Beverage,49.0
+661,20,Kopi Nusantara,Food & Beverage,49.0
+666,25,Sate Rakyat,Food & Beverage,49.9
+669,29,Kedai Kopi Santai,Food & Beverage,49.9
+673,18,Roti Bakar Society,Food & Beverage,49.0
+674,29,Soto Nusantara,Food & Beverage,49.9
+676,31,Sate Rakyat,Food & Beverage,
+678,18,Mie Pedas Juara,Food & Beverage,49.0
+679,18,Bakso Rakyat,Food & Beverage,49.0
+681,5,Kedai Matcha,Food & Beverage,49.9
+682,25,Nasi Goreng Express,Food & Beverage,49.9
+684,17,UrbanWear,Retail Goods,29.9
+685,20,Skincare Society,Retail Goods,29.9
+686,29,Dapur Nusantara,Food & Beverage,49.9
+687,17,HomeLiving Mart,Retail Goods,29.9
+689,17,Urban Essentials,Retail Goods,29.9
+690,29,Sate Rakyat,Food & Beverage,49.9
+692,29,Mie Pedas Juara,Food & Beverage,49.9
+693,29,Urban Essentials,Retail Goods,29.0
+695,5,Pecel Lele Juara,Food & Beverage,49.0
+697,21,Sneaker Nation,Retail Goods,29.9
+700,21,TechHub Store,Retail Goods,29.9
+701,21,Fashion Hub,Retail Goods,29.9
+702,21,HomeLiving Mart,Retail Goods,
+706,17,Smart Living Store,Retail Goods,29.9
+707,33,Dapur Nusantara,Food & Beverage,
+716,33,Kopi Nusantara,Food & Beverage,49.9
+728,33,Pecel Lele Juara,Food & Beverage,49.9
+735,33,Soto Nusantara,Food & Beverage,49.9
+739,16,FreshMart,Retail Goods,29.0
+745,3,UrbanWear,Retail Goods,
+747,21,DailyMart,Retail Goods,29.9
+748,27,Ayam Bakar Premium,Food & Beverage,49.9
+753,3,Mie Pedas Juara,Food & Beverage,0.0
+754,13,Trendify,Retail Goods,
+762,26,GadgetPoint,Retail Goods,29.9
+763,26,Trendify,Retail Goods,49.9
+767,29,Martabak Legit,Food & Beverage,49.9
+771,27,Seblak Corner,Food & Beverage,49.9
+773,18,Seblak Corner,Food & Beverage,49.0
+780,29,Mie Ayam Corner,Food & Beverage,
+783,22,Seblak Corner,Food & Beverage,49.0
+785,33,Kedai Kopi Santai,Food & Beverage,49.9
+786,33,TechHub Store,Retail Goods,49.9
+787,33,Rice Bowl Station,Food & Beverage,49.9
+790,33,Mie Ayam Corner,Food & Beverage,49.9
+791,8,Kedai Kopi Santai,Food & Beverage,0.0
+792,13,Kedai Matcha,Food & Beverage,0.0
+801,20,Roti Bakar Society,Food & Beverage,49.0
+802,20,Dapur Nusantara,Food & Beverage,49.0
+804,18,Pecel Lele Juara,Food & Beverage,49.0
+806,27,Modern Mart,Retail Goods,
+807,29,Sneaker Nation,Retail Goods,
+808,28,Smart Living Store,Retail Goods,
+809,25,Sneaker Nation,Retail Goods,29.9
+810,22,Mie Pedas Juara,Food & Beverage,49.0
+811,8,Digital Lifestyle,Retail Goods,0.01
+824,26,Fashion Hub,Retail Goods,29.9
+828,20,Electronic City,Retail Goods,
+832,27,Urban Essentials,Retail Goods,29.9
+837,33,Electronic City,Retail Goods,29.0
+840,26,Sate Rakyat,Food & Beverage,49.9
+845,13,Dimsum Daily,Food & Beverage,
+847,13,Trendify,Retail Goods,29.0
+850,22,Seblak Corner,Food & Beverage,49.0
+859,20,Soto Nusantara,Food & Beverage,49.9
+864,3,Kopi Nusantara,Food & Beverage,0.01
+869,18,Martabak Legit,Food & Beverage,49.0
+870,18,Kedai Kopi Santai,Food & Beverage,49.0
+875,31,Dimsum Daily,Food & Beverage,49.9
+876,26,Style Avenue,Retail Goods,29.9
+877,33,Trendify,Retail Goods,29.0
+879,28,Kopi Nusantara,Food & Beverage,49.9
+882,35,Seblak Corner,Food & Beverage,49.0
+883,35,Ayam Geprek Juara,Food & Beverage,49.0
+886,35,Dimsum Daily,Food & Beverage,
+894,35,Seblak Corner,Food & Beverage,49.0
+902,8,GadgetPoint,Retail Goods,29.0
+903,35,Soto Nusantara,Food & Beverage,49.0
+904,25,Glow Beauty,Retail Goods,29.0
+911,28,Dapur Nusantara,Food & Beverage,0.0
+912,3,Dimsum Daily,Food & Beverage,49.0
+913,27,Skincare Society,Retail Goods,29.9
+915,25,FreshMart,Retail Goods,29.9
+918,27,Sneaker Nation,Retail Goods,
+921,29,Smart Living Store,Retail Goods,29.9
+923,3,TechHub Store,Retail Goods,29.9
+924,29,Style Avenue,Retail Goods,29.0
+931,31,Martabak Legit,Food & Beverage,49.9
+933,31,Mie Ayam Corner,Food & Beverage,49.9
+938,27,Dimsum Daily,Food & Beverage,49.9
+941,27,Mie Ayam Corner,Food & Beverage,49.9
+944,35,Bakso Rakyat,Food & Beverage,49.0
+945,29,Sneaker Nation,Retail Goods,29.9
+946,29,DailyMart,Retail Goods,29.9
+947,5,Sate Rakyat,Food & Beverage,49.0
+948,27,Modern Mart,Retail Goods,29.9
+950,33,Ayam Bakar Premium,Food & Beverage,49.9
+951,33,Modern Mart,Retail Goods,29.9
+952,26,Modern Mart,Retail Goods,29.9
+953,26,Electronic City,Retail Goods,29.9
+955,51,Ayam Geprek Juara,Food & Beverage,
+960,33,DailyMart,Retail Goods,29.0
+961,21,Ayam Geprek Juara,Food & Beverage,49.9
+964,26,Digital Lifestyle,Retail Goods,29.9
+965,17,Beauty Avenue,Retail Goods,29.9
+966,35,Sate Rakyat,Food & Beverage,49.0
+967,28,Trendify,Retail Goods,29.9
+968,28,Sneaker Nation,Retail Goods,29.9
+975,36,Bakmi Express,Food & Beverage,49.0
+976,36,Kedai Kopi Santai,Food & Beverage,49.0
+977,36,Nasi Goreng Express,Food & Beverage,49.0
+978,55,TechHub Store,Retail Goods,29.9
+983,35,Bakso Rakyat,Food & Beverage,49.0
+984,33,HomeLiving Mart,Retail Goods,
+989,36,Skincare Society,Retail Goods,29.0
+995,31,Electronic City,Retail Goods,29.0
+997,33,Trendify,Retail Goods,29.0
+998,20,Seblak Corner,Food & Beverage,49.0
+999,35,Nasi Goreng Express,Food & Beverage,49.0
+1000,20,Smart Living Store,Retail Goods,49.0
+1001,26,Sate Rakyat,Food & Beverage,49.9
+1002,20,Ayam Geprek Juara,Food & Beverage,49.9
+1003,29,Smart Living Store,Retail Goods,29.0
+1006,25,UrbanWear,Retail Goods,29.9
+1008,29,Glow Beauty,Retail Goods,29.9
+1009,20,Dimsum Daily,Food & Beverage,49.9
+1010,16,HomeLiving Mart,Retail Goods,49.0
+1014,31,Modern Mart,Retail Goods,29.0
+1015,31,FreshMart,Retail Goods,29.9
+1016,36,Mie Ayam Corner,Food & Beverage,49.0
+1018,36,Bakmi Express,Food & Beverage,49.0
+1019,20,Digital Lifestyle,Retail Goods,49.0
+1022,29,GadgetPoint,Retail Goods,29.0
+1025,21,HomeLiving Mart,Retail Goods,29.0
+1026,22,Digital Lifestyle,Retail Goods,29.9
+1027,33,UrbanWear,Retail Goods,
+1029,55,Digital Lifestyle,Retail Goods,29.9
+1034,18,Skincare Society,Retail Goods,29.9
+1037,35,Nasi Goreng Express,Food & Beverage,
+1041,26,NextGen Fashion,Retail Goods,49.9
+1042,36,Bakso Rakyat,Food & Beverage,49.0
+1044,36,Smart Living Store,Retail Goods,29.0
+1056,16,Mie Ayam Corner,Food & Beverage,49.0
+1057,36,Rice Bowl Station,Food & Beverage,
+1061,33,Sneaker Nation,Retail Goods,29.0
+1064,8,NextGen Fashion,Retail Goods,49.0
+1071,25,Sneaker Nation,Retail Goods,29.9
+1076,20,Ayam Geprek Juara,Food & Beverage,49.0
+1080,18,Style Avenue,Retail Goods,29.9
+1082,35,Smart Living Store,Retail Goods,29.9
+1083,27,GadgetPoint,Retail Goods,29.9
+1084,28,Beauty Avenue,Retail Goods,29.9
+1091,20,GadgetPoint,Retail Goods,29.9
+1092,18,GadgetPoint,Retail Goods,29.0
+1093,36,Style Avenue,Retail Goods,29.0
+1095,22,FreshMart,Retail Goods,29.0
+1096,8,Urban Essentials,Retail Goods,29.0
+1097,28,Urban Essentials,Retail Goods,29.9
+1098,33,HomeLiving Mart,Retail Goods,29.0
+1099,29,GadgetPoint,Retail Goods,29.0
+1101,26,Urban Essentials,Retail Goods,29.9
+1103,27,Glow Beauty,Retail Goods,29.0
+1104,13,HomeLiving Mart,Retail Goods,
+1105,25,Glow Beauty,Retail Goods,29.0
+1106,21,Daily Needs Center,Retail Goods,29.0
+1107,21,Seblak Corner,Food & Beverage,49.0
+1114,35,Dimsum Daily,Food & Beverage,49.9
+1117,21,Digital Lifestyle,Retail Goods,29.0
+1118,35,DailyMart,Retail Goods,29.0
+1119,28,Martabak Legit,Food & Beverage,
+1120,27,Trendify,Retail Goods,29.0
+1121,20,Style Avenue,Retail Goods,29.0
+1122,27,Daily Needs Center,Retail Goods,29.0
+1123,8,GadgetPoint,Retail Goods,
+1125,36,Pecel Lele Juara,Food & Beverage,49.0
+1127,16,Seblak Corner,Food & Beverage,49.0
+1128,17,Modern Mart,Retail Goods,29.9
+1141,21,Style Avenue,Retail Goods,29.0
+1143,3,Style Avenue,Retail Goods,49.0
+1146,33,Urban Essentials,Retail Goods,29.9
+1150,26,Soto Nusantara,Food & Beverage,49.9
+1152,8,Roti Bakar Society,Food & Beverage,29.0
+1153,13,Bakmi Express,Food & Beverage,49.0
+1154,27,Beauty Avenue,Retail Goods,29.9
+1157,27,Trendify,Retail Goods,29.0
+1160,3,Skincare Society,Retail Goods,49.0
+1161,31,Digital Lifestyle,Retail Goods,
+1162,13,TechHub Store,Retail Goods,29.0
+1163,33,NextGen Fashion,Retail Goods,29.0
+1164,26,Electronic City,Retail Goods,29.0
+1165,17,Beauty Avenue,Retail Goods,29.0
+1166,33,Glow Beauty,Retail Goods,29.0
+1167,31,UrbanWear,Retail Goods,29.0
+1175,31,Electronic City,Retail Goods,
+1187,33,Daily Needs Center,Retail Goods,29.0
+1199,31,Style Avenue,Retail Goods,29.0
+1204,18,DailyMart,Retail Goods,
+1205,29,Glow Beauty,Retail Goods,29.0
+1208,16,Kedai Kopi Santai,Food & Beverage,49.0
+1210,26,Bakmi Express,Food & Beverage,49.0
+1213,21,Urban Essentials,Retail Goods,29.9
+1214,21,Skincare Society,Retail Goods,29.0
+1215,17,TechHub Store,Retail Goods,29.0
+1218,20,Ayam Bakar Premium,Food & Beverage,49.9
+1220,33,Glow Beauty,Retail Goods,29.0
+1224,31,Trendify,Retail Goods,
+1230,27,Fashion Hub,Retail Goods,29.0
+1232,33,NextGen Fashion,Retail Goods,
+1233,3,HomeLiving Mart,Retail Goods,29.0
+1235,33,Electronic City,Retail Goods,29.0
+1236,33,Smart Living Store,Retail Goods,29.9
+1237,33,NextGen Fashion,Retail Goods,29.9
+1238,33,Daily Needs Center,Retail Goods,29.9
+1239,33,Urban Essentials,Retail Goods,29.9
+1242,35,UrbanWear,Retail Goods,29.9
+1246,31,Smart Living Store,Retail Goods,29.0
+1247,25,NextGen Fashion,Retail Goods,29.9
+1254,31,DailyMart,Retail Goods,29.0
+1259,26,TechHub Store,Retail Goods,29.9
+1263,33,Skincare Society,Retail Goods,29.0
+1271,21,DailyMart,Retail Goods,
+1272,20,DailyMart,Retail Goods,29.9
+1273,35,Smart Living Store,Retail Goods,29.9
+1274,28,TechHub Store,Retail Goods,29.0
+1276,35,Skincare Society,Retail Goods,29.9
+1278,35,NextGen Fashion,Retail Goods,29.9
+1279,8,Daily Needs Center,Retail Goods,29.9
+1280,33,Sneaker Nation,Retail Goods,29.9
+1283,27,Beauty Avenue,Retail Goods,29.0
+1288,31,Sneaker Nation,Retail Goods,29.0
+1290,26,Skincare Society,Retail Goods,29.0
+1292,18,Urban Essentials,Retail Goods,
+1293,35,FreshMart,Retail Goods,29.0
+1300,29,Skincare Society,Retail Goods,29.0
+1303,13,GadgetPoint,Retail Goods,
+1304,25,Glow Beauty,Retail Goods,29.0
+1307,8,Bakso Rakyat,Food & Beverage,49.9
+1314,27,Skincare Society,Retail Goods,29.0
+1317,31,GadgetPoint,Retail Goods,49.0
+1318,33,UrbanWear,Retail Goods,29.0
+1321,31,Soto Nusantara,Food & Beverage,49.0
+1324,3,Rice Bowl Station,Food & Beverage,
+1325,31,Skincare Society,Retail Goods,29.9
+1330,31,HomeLiving Mart,Retail Goods,
+1332,20,Electronic City,Retail Goods,29.0
+1333,20,Smart Living Store,Retail Goods,29.0
+1335,8,Modern Mart,Retail Goods,29.0
+1338,31,Kedai Kopi Santai,Food & Beverage,49.9
+1344,31,UrbanWear,Retail Goods,
+1345,29,DailyMart,Retail Goods,29.0
+1378,33,Glow Beauty,Retail Goods,
+1381,13,TechHub Store,Retail Goods,
+1383,13,Smart Living Store,Retail Goods,29.0
+1395,21,GadgetPoint,Retail Goods,
+1397,21,Fashion Hub,Retail Goods,29.0
+1399,3,Martabak Legit,Food & Beverage,0.0
+1401,27,Kedai Kopi Santai,Food & Beverage,49.9
+1404,31,TechHub Store,Retail Goods,29.9
+1406,26,Bakso Rakyat,Food & Beverage,49.9
+1409,17,TechHub Store,Retail Goods,29.9
+1411,29,GadgetPoint,Retail Goods,29.9
+1412,29,NextGen Fashion,Retail Goods,29.9
+1413,20,Fashion Hub,Retail Goods,29.0
+1415,8,GadgetPoint,Retail Goods,29.0
+1416,13,Fashion Hub,Retail Goods,29.0
+1419,8,Sneaker Nation,Retail Goods,29.9
+1428,8,Trendify,Retail Goods,
+1431,20,DailyMart,Retail Goods,29.0
+1432,33,Fashion Hub,Retail Goods,
+1433,33,Smart Living Store,Retail Goods,29.9
+1435,8,Modern Mart,Retail Goods,29.9
+1437,20,Daily Needs Center,Retail Goods,29.9
+1438,13,TechHub Store,Retail Goods,29.9
+1442,31,Trendify,Retail Goods,29.9
+1454,36,HomeLiving Mart,Retail Goods,29.9
+1455,27,HomeLiving Mart,Retail Goods,29.9
+1458,29,Modern Mart,Retail Goods,29.9
+1460,29,UrbanWear,Retail Goods,29.9
+1473,33,HomeLiving Mart,Retail Goods,29.0
+1474,33,Beauty Avenue,Retail Goods,29.0
+1477,13,Modern Mart,Retail Goods,29.0
+1482,36,Trendify,Retail Goods,29.9
+1492,18,Skincare Society,Retail Goods,29.9
+1495,18,HomeLiving Mart,Retail Goods,29.9
+1496,18,DailyMart,Retail Goods,29.9
+1497,35,Digital Lifestyle,Retail Goods,29.9
+1498,16,GadgetPoint,Retail Goods,29.9
+1507,18,FreshMart,Retail Goods,29.9
+1508,8,Trendify,Retail Goods,
+1512,8,Sneaker Nation,Retail Goods,29.0
+1515,33,Electronic City,Retail Goods,29.9
+1519,26,Fashion Hub,Retail Goods,29.9
+1520,25,NextGen Fashion,Retail Goods,29.9
+1528,20,Dimsum Daily,Food & Beverage,49.9
+1529,17,Trendify,Retail Goods,
+1530,36,Kopi Nusantara,Food & Beverage,49.0
+1538,33,Sneaker Nation,Retail Goods,49.9
+1539,21,Digital Lifestyle,Retail Goods,49.9
+1551,3,Beauty Avenue,Retail Goods,
+1556,36,Roti Bakar Society,Food & Beverage,49.0
+1560,17,Glow Beauty,Retail Goods,29.0
+1568,33,Skincare Society,Retail Goods,29.0
+1571,27,Fashion Hub,Retail Goods,
+1579,20,Dapur Nusantara,Food & Beverage,49.0
+1583,13,Digital Lifestyle,Retail Goods,29.9
+1584,18,Smart Living Store,Retail Goods,29.0
+1586,8,Soto Nusantara,Food & Beverage,49.9
+1587,35,Kopi Nusantara,Food & Beverage,49.9
+1589,43,DailyMart,Retail Goods,29.0
+1590,20,Skincare Society,Retail Goods,29.0
+1591,33,HomeLiving Mart,Retail Goods,29.0
+1594,51,Style Avenue,Retail Goods,29.0
+1600,17,Skincare Society,Retail Goods,
+1601,28,GadgetPoint,Retail Goods,29.0
+1602,25,DailyMart,Retail Goods,29.0
+1603,29,Daily Needs Center,Retail Goods,
+1606,36,Modern Mart,Retail Goods,
+1607,13,Fashion Hub,Retail Goods,29.0
+1608,17,Beauty Avenue,Retail Goods,29.0
+1609,43,Modern Mart,Retail Goods,
+1610,42,Daily Needs Center,Retail Goods,
+1612,44,Urban Essentials,Retail Goods,
+1620,27,DailyMart,Retail Goods,29.9
+1621,20,Digital Lifestyle,Retail Goods,29.9
+1622,29,Style Avenue,Retail Goods,29.9
+1629,25,Sneaker Nation,Retail Goods,29.0
+1630,33,Skincare Society,Retail Goods,
+1632,17,GadgetPoint,Retail Goods,29.0
+1633,44,Modern Mart,Retail Goods,
+1634,8,UrbanWear,Retail Goods,
+1635,37,Dapur Nusantara,Food & Beverage,29.0
+1636,33,Smart Living Store,Retail Goods,29.0
+1641,25,Sneaker Nation,Retail Goods,29.9
+1642,27,Fashion Hub,Retail Goods,29.9
+1647,44,Modern Mart,Retail Goods,29.29
+1649,44,Glow Beauty,Retail Goods,29.9
+1661,44,Beauty Avenue,Retail Goods,29.9
+1664,26,Pecel Lele Juara,Food & Beverage,49.9
+1667,44,Beauty Avenue,Retail Goods,29.0
+1674,27,DailyMart,Retail Goods,29.0
+1679,17,NextGen Fashion,Retail Goods,29.9
+1680,43,Urban Essentials,Retail Goods,29.9
+1681,35,Mie Pedas Juara,Food & Beverage,49.9
+1685,13,Modern Mart,Retail Goods,29.0
+1693,17,Beauty Avenue,Retail Goods,29.0
+1696,33,Warung Sambal Juara,Food & Beverage,49.9
+1704,28,Mie Pedas Juara,Food & Beverage,49.0
+1705,8,Smart Living Store,Retail Goods,29.0
+1721,20,TechHub Store,Retail Goods,29.9
+1723,33,Sneaker Nation,Retail Goods,29.9
+1728,33,Bakso Rakyat,Food & Beverage,49.9
+1729,22,Digital Lifestyle,Retail Goods,29.9
+1730,8,HomeLiving Mart,Retail Goods,29.9
+1739,20,Daily Needs Center,Retail Goods,29.0
+1745,43,Style Avenue,Retail Goods,29.9
+1748,25,NextGen Fashion,Retail Goods,29.0
+1772,20,Warung Sambal Juara,Food & Beverage,
+1784,21,Smart Living Store,Retail Goods,
+1787,44,UrbanWear,Retail Goods,
+1792,36,Mie Pedas Juara,Food & Beverage,49.0
+1799,51,NextGen Fashion,Retail Goods,29.0
+1801,17,Sneaker Nation,Retail Goods,29.9
+1804,3,Bakso Rakyat,Food & Beverage,
+1814,13,Martabak Legit,Food & Beverage,
+1816,44,Daily Needs Center,Retail Goods,29.9
+1820,29,Beauty Avenue,Retail Goods,29.9
+1822,27,Electronic City,Retail Goods,29.0
+1833,8,Electronic City,Retail Goods,29.0
+1835,25,Nasi Goreng Express,Food & Beverage,49.0
+1842,13,Bakmi Express,Food & Beverage,49.9
+1844,51,Urban Essentials,Retail Goods,29.9
+1852,36,Mie Ayam Corner,Food & Beverage,49.0
+1855,16,HomeLiving Mart,Retail Goods,29.0
+1867,27,Glow Beauty,Retail Goods,29.0
+1872,26,NextGen Fashion,Retail Goods,29.0
+1873,26,Urban Essentials,Retail Goods,29.0
+1874,25,Daily Needs Center,Retail Goods,29.0
+1875,25,Beauty Avenue,Retail Goods,
+1881,20,Glow Beauty,Retail Goods,29.0
+1882,20,Trendify,Retail Goods,29.0
+1883,31,NextGen Fashion,Retail Goods,
+1888,33,Trendify,Retail Goods,29.0
+1899,21,Sneaker Nation,Retail Goods,29.0
+1910,17,TechHub Store,Retail Goods,29.0
+1911,13,UrbanWear,Retail Goods,29.0
+1914,16,Ayam Geprek Juara,Food & Beverage,49.9
+1923,3,Dimsum Daily,Food & Beverage,49.9
+1924,20,FreshMart,Retail Goods,29.0
+1925,17,Daily Needs Center,Retail Goods,29.9
+1926,17,Glow Beauty,Retail Goods,29.9
+1928,44,Nasi Goreng Express,Food & Beverage,49.9
+1930,20,Bakso Rakyat,Food & Beverage,49.9
+1940,31,Style Avenue,Retail Goods,19.9
+1964,13,Sneaker Nation,Retail Goods,29.0
+1967,43,Digital Lifestyle,Retail Goods,29.9
+1981,13,FreshMart,Retail Goods,
+1984,43,Warung Sambal Juara,Food & Beverage,49.9
+1987,20,Trendify,Retail Goods,29.0
+1992,43,TechHub Store,Retail Goods,29.0
+1996,51,UrbanWear,Retail Goods,29.9
+1997,18,DailyMart,Retail Goods,29.9
+1999,43,Modern Mart,Retail Goods,29.9
+2002,44,Trendify,Retail Goods,29.9
+2006,18,HomeLiving Mart,Retail Goods,29.0
+2007,26,Urban Essentials,Retail Goods,29.9
+2008,8,Electronic City,Retail Goods,29.9
+2012,44,GadgetPoint,Retail Goods,29.0
+2013,31,Smart Living Store,Retail Goods,29.0
+2014,20,Trendify,Retail Goods,29.0
+2026,13,Sate Rakyat,Food & Beverage,49.0
+2028,13,Electronic City,Retail Goods,29.0
+2036,44,Rice Bowl Station,Food & Beverage,49.9
+2037,28,Electronic City,Retail Goods,29.0
+2043,31,Urban Essentials,Retail Goods,29.9
+2047,17,Smart Living Store,Retail Goods,29.0
+2049,17,Daily Needs Center,Retail Goods,29.9
+2050,33,Beauty Avenue,Retail Goods,29.9
+2052,13,Electronic City,Retail Goods,
+2055,8,Daily Needs Center,Retail Goods,29.0
+2060,43,Dapur Nusantara,Food & Beverage,49.9
+2061,42,Bakso Rakyat,Food & Beverage,49.9
+2070,31,Smart Living Store,Retail Goods,29.9
+2073,21,Electronic City,Retail Goods,29.0
+2074,42,Kedai Matcha,Food & Beverage,49.9
+2078,13,FreshMart,Retail Goods,29.9
+2079,13,Electronic City,Retail Goods,29.9
+2080,8,Skincare Society,Retail Goods,29.0
+2097,33,Trendify,Retail Goods,29.0
+2109,21,Skincare Society,Retail Goods,29.0
+2110,27,Urban Essentials,Retail Goods,29.0
+2112,51,Mie Ayam Corner,Food & Beverage,49.9
+2118,8,Trendify,Retail Goods,29.0
+2136,27,Skincare Society,Retail Goods,29.9
+2137,33,Electronic City,Retail Goods,29.9
+2138,33,Glow Beauty,Retail Goods,29.0
+2139,33,Mie Pedas Juara,Food & Beverage,49.9
+2142,43,Dimsum Daily,Food & Beverage,49.9
+2149,43,Roti Bakar Society,Food & Beverage,49.9
+2150,31,Beauty Avenue,Retail Goods,29.0
+2156,43,Soto Nusantara,Food & Beverage,49.9
+2161,28,Kedai Kopi Santai,Food & Beverage,49.9
+2167,25,Glow Beauty,Retail Goods,29.0
+2168,17,TechHub Store,Retail Goods,29.9
+2169,31,TechHub Store,Retail Goods,
+2170,37,Dimsum Daily,Food & Beverage,49.9
+2181,13,Digital Lifestyle,Retail Goods,29.0
+2188,44,Rice Bowl Station,Food & Beverage,49.9
+2189,42,Bakmi Express,Food & Beverage,49.9
+2193,21,Glow Beauty,Retail Goods,
+2198,13,Modern Mart,Retail Goods,29.0
+2211,35,Modern Mart,Retail Goods,29.9
+2216,18,Beauty Avenue,Retail Goods,29.9
+2221,33,Smart Living Store,Retail Goods,29.0
+2229,42,Electronic City,Retail Goods,29.0
+2233,31,Modern Mart,Retail Goods,29.9
+2244,17,GadgetPoint,Retail Goods,29.9
+2249,20,Bakmi Express,Food & Beverage,0.0
+2257,42,Modern Mart,Retail Goods,29.0
+2260,44,Digital Lifestyle,Retail Goods,29.0
+2261,43,Style Avenue,Retail Goods,29.0
+2264,33,UrbanWear,Retail Goods,
+2267,17,Martabak Legit,Food & Beverage,49.9
+2270,73,Warung Sambal Juara,Food & Beverage,
+2274,27,FreshMart,Retail Goods,
+2275,20,UrbanWear,Retail Goods,29.0
+2276,28,Fashion Hub,Retail Goods,29.0
+2278,51,NextGen Fashion,Retail Goods,
+2292,37,Digital Lifestyle,Retail Goods,29.0
+2306,13,Modern Mart,Retail Goods,
+2311,13,Smart Living Store,Retail Goods,29.9
+2313,36,Kedai Kopi Santai,Food & Beverage,49.0
+2317,37,Daily Needs Center,Retail Goods,0.0
+2326,37,Trendify,Retail Goods,
+2354,13,Mie Ayam Corner,Food & Beverage,49.9
+2355,17,Trendify,Retail Goods,29.0
+2356,8,Skincare Society,Retail Goods,29.9
+2390,8,Modern Mart,Retail Goods,
+2398,27,Mie Ayam Corner,Food & Beverage,49.9
+2400,75,UrbanWear,Retail Goods,29.9
+2403,42,Digital Lifestyle,Retail Goods,
+2404,43,Beauty Avenue,Retail Goods,29.9
+2413,51,Warung Sambal Juara,Food & Beverage,
+2414,75,HomeLiving Mart,Retail Goods,29.0
+2425,33,Electronic City,Retail Goods,
+2429,44,Rice Bowl Station,Food & Beverage,
+2432,42,Pecel Lele Juara,Food & Beverage,29.9
+2433,75,Kedai Kopi Santai,Food & Beverage,29.9
+2434,75,UrbanWear,Retail Goods,
+2436,75,Digital Lifestyle,Retail Goods,29.9
+2439,37,Martabak Legit,Food & Beverage,49.9
+2447,13,Style Avenue,Retail Goods,29.9
+2451,13,UrbanWear,Retail Goods,
+2459,44,Glow Beauty,Retail Goods,29.0
+2463,75,Modern Mart,Retail Goods,
+2465,28,TechHub Store,Retail Goods,
+2466,37,Electronic City,Retail Goods,
+2468,26,HomeLiving Mart,Retail Goods,29.9
+2471,75,GadgetPoint,Retail Goods,
+2479,37,Skincare Society,Retail Goods,29.9
+2480,27,Digital Lifestyle,Retail Goods,29.0
+2482,31,Beauty Avenue,Retail Goods,29.0
+2489,75,Sneaker Nation,Retail Goods,29.9
+2500,51,Electronic City,Retail Goods,
+2505,13,Beauty Avenue,Retail Goods,29.0
+2518,21,Beauty Avenue,Retail Goods,29.0
+2529,27,Digital Lifestyle,Retail Goods,29.0
+2541,51,Roti Bakar Society,Food & Beverage,49.0
+2542,20,Modern Mart,Retail Goods,29.0
+2543,20,Skincare Society,Retail Goods,29.0
+2545,29,Glow Beauty,Retail Goods,29.0
+2559,51,Mie Ayam Corner,Food & Beverage,
+2583,43,Kopi Nusantara,Food & Beverage,49.9
+2587,75,Kedai Kopi Santai,Food & Beverage,49.0
+2595,8,GadgetPoint,Retail Goods,
+2604,21,Fashion Hub,Retail Goods,
+2640,27,Trendify,Retail Goods,29.0
+2645,31,Glow Beauty,Retail Goods,29.9
+2658,75,GadgetPoint,Retail Goods,29.0
+2661,75,UrbanWear,Retail Goods,29.0
+2664,75,Trendify,Retail Goods,29.0
+2700,26,Bakmi Express,Food & Beverage,49.9
+2703,75,UrbanWear,Retail Goods,29.0
+2710,75,Daily Needs Center,Retail Goods,29.0
+2730,44,Rice Bowl Station,Food & Beverage,49.0
+2732,35,Dimsum Daily,Food & Beverage,49.0
+2734,51,Rice Bowl Station,Food & Beverage,49.9
+2749,51,Mie Ayam Corner,Food & Beverage,49.9
+2754,28,DailyMart,Retail Goods,29.0
+2756,29,Style Avenue,Retail Goods,29.0
+2764,44,Sneaker Nation,Retail Goods,29.0
+2785,37,Electronic City,Retail Goods,29.0
+2800,75,Skincare Society,Retail Goods,29.0
+2812,31,Ayam Bakar Premium,Food & Beverage,49.9
+2816,27,HomeLiving Mart,Retail Goods,29.9
+2836,75,Pecel Lele Juara,Food & Beverage,49.0
+2861,44,Daily Needs Center,Retail Goods,29.0
+2863,36,DailyMart,Retail Goods,29.9
+2872,13,HomeLiving Mart,Retail Goods,29.9
+2888,75,NextGen Fashion,Retail Goods,0.0
+2891,75,Sate Rakyat,Food & Beverage,49.0
+2894,42,Martabak Legit,Food & Beverage,49.9
+2904,8,UrbanWear,Retail Goods,29.0
+2908,36,Mie Pedas Juara,Food & Beverage,49.9
+2917,17,Style Avenue,Retail Goods,29.0
+2933,8,Digital Lifestyle,Retail Goods,
+2948,42,Warung Sambal Juara,Food & Beverage,49.9
+2954,29,Bakmi Express,Food & Beverage,0.0
+2955,20,Seblak Corner,Food & Beverage,0.0
+2956,18,Martabak Legit,Food & Beverage,49.9
+2958,35,Dimsum Daily,Food & Beverage,0.0
+2959,33,Sate Rakyat,Food & Beverage,0.0
+2960,27,Mie Pedas Juara,Food & Beverage,0.0
+2962,25,Pecel Lele Juara,Food & Beverage,0.0
+2963,17,Sate Rakyat,Food & Beverage,0.0
+2964,8,Martabak Legit,Food & Beverage,0.0
+2971,51,Ayam Geprek Juara,Food & Beverage,49.0
+2980,75,Ayam Bakar Premium,Food & Beverage,49.9
+3000,42,Smart Living Store,Retail Goods,29.0
+3001,43,Modern Mart,Retail Goods,29.9
+3008,75,Ayam Bakar Premium,Food & Beverage,49.9
+3012,43,Glow Beauty,Retail Goods,29.9
+3016,18,Dapur Nusantara,Food & Beverage,49.9
+3019,29,Beauty Avenue,Retail Goods,29.0
+3021,43,UrbanWear,Retail Goods,49.9
+3048,35,Bakso Rakyat,Food & Beverage,49.9
+3060,29,Mie Ayam Corner,Food & Beverage,49.9
+3062,25,DailyMart,Retail Goods,29.0
+3063,20,Modern Mart,Retail Goods,29.0
+3068,37,Ayam Bakar Premium,Food & Beverage,49.9
+3070,17,Nasi Goreng Express,Food & Beverage,49.9
+3071,31,Rice Bowl Station,Food & Beverage,49.9
+3077,75,Modern Mart,Retail Goods,29.9
+3091,25,Kedai Matcha,Food & Beverage,49.9
+3097,26,Dapur Nusantara,Food & Beverage,49.9
+3105,27,Roti Bakar Society,Food & Beverage,49.9
+3117,8,Pecel Lele Juara,Food & Beverage,49.9
+3128,20,Smart Living Store,Retail Goods,29.9
+3162,37,FreshMart,Retail Goods,29.9
+3172,44,Electronic City,Retail Goods,29.0
+3182,51,Modern Mart,Retail Goods,29.0
+3183,8,Style Avenue,Retail Goods,29.0
+3185,13,Skincare Society,Retail Goods,29.0
+3218,27,Beauty Avenue,Retail Goods,39.0
+3222,20,Dimsum Daily,Food & Beverage,49.9
+3230,42,Seblak Corner,Food & Beverage,49.0
+3254,28,Roti Bakar Society,Food & Beverage,49.0
+3265,37,Nasi Goreng Express,Food & Beverage,49.9
+3279,44,Trendify,Retail Goods,29.0
+3284,31,Electronic City,Retail Goods,29.9
+3285,25,Style Avenue,Retail Goods,29.9
+3296,29,Pecel Lele Juara,Food & Beverage,49.0
+3322,13,Digital Lifestyle,Retail Goods,29.9
+3324,36,Soto Nusantara,Food & Beverage,49.0
+3325,33,UrbanWear,Retail Goods,29.0
+3365,31,FreshMart,Retail Goods,29.0
+3370,28,Beauty Avenue,Retail Goods,29.0
+3388,43,HomeLiving Mart,Retail Goods,29.0
+3393,20,FreshMart,Retail Goods,29.0
+3394,8,Sneaker Nation,Retail Goods,29.0
+3401,43,Ayam Bakar Premium,Food & Beverage,49.9
+3402,44,Roti Bakar Society,Food & Beverage,49.0
+3403,75,Soto Nusantara,Food & Beverage,49.0
+3404,42,Roti Bakar Society,Food & Beverage,49.9
+3405,27,Daily Needs Center,Retail Goods,29.9
+3406,20,Skincare Society,Retail Goods,29.9
+3412,75,Kedai Kopi Santai,Food & Beverage,49.9
+3418,25,UrbanWear,Retail Goods,29.9
+3420,18,Urban Essentials,Retail Goods,29.9
+3422,3,Sneaker Nation,Retail Goods,
+3432,43,Glow Beauty,Retail Goods,29.0
+3433,13,Trendify,Retail Goods,29.0
+3434,33,Modern Mart,Retail Goods,29.0
+3450,13,Mie Ayam Corner,Food & Beverage,
+3451,37,Smart Living Store,Retail Goods,29.0
+3460,75,Dimsum Daily,Food & Beverage,29.0
+3468,75,Mie Ayam Corner,Food & Beverage,49.0
+3490,25,FreshMart,Retail Goods,29.0
+3491,31,Electronic City,Retail Goods,29.0
+3492,17,UrbanWear,Retail Goods,29.0
+3493,33,Glow Beauty,Retail Goods,29.0
+3497,26,NextGen Fashion,Retail Goods,29.0
+3498,37,Trendify,Retail Goods,29.0
+3500,13,Warung Sambal Juara,Food & Beverage,29.0
+3509,51,Dimsum Daily,Food & Beverage,49.9
+3510,13,NextGen Fashion,Retail Goods,29.9
+3512,75,Martabak Legit,Food & Beverage,49.0
+3528,51,Ayam Bakar Premium,Food & Beverage,49.9
+3530,43,FreshMart,Retail Goods,29.0
+3535,25,Smart Living Store,Retail Goods,29.0
+3541,44,Dapur Nusantara,Food & Beverage,49.0
+3546,37,Ayam Bakar Premium,Food & Beverage,49.0
+3553,13,Modern Mart,Retail Goods,29.0
+3588,35,Smart Living Store,Retail Goods,49.0
+3595,43,Soto Nusantara,Food & Beverage,49.9
+3609,42,Fashion Hub,Retail Goods,29.0
+3612,36,Nasi Goreng Express,Food & Beverage,29.0
+3615,33,Skincare Society,Retail Goods,29.0
+3625,13,Mie Pedas Juara,Food & Beverage,49.0
+3627,13,Roti Bakar Society,Food & Beverage,49.0
+3631,8,Trendify,Retail Goods,29.0
+3639,21,Sate Rakyat,Food & Beverage,49.0
+3641,13,Bakmi Express,Food & Beverage,49.0
+3644,75,Soto Nusantara,Food & Beverage,29.0
+3646,43,DailyMart,Retail Goods,29.0
+3648,8,Smart Living Store,Retail Goods,29.9
+3688,21,HomeLiving Mart,Retail Goods,29.0
+3694,51,Bakmi Express,Food & Beverage,
+3711,44,Bakmi Express,Food & Beverage,49.0
+3712,75,Mie Ayam Corner,Food & Beverage,49.0
+3721,27,Roti Bakar Society,Food & Beverage,49.9
+3723,17,Style Avenue,Retail Goods,29.0
+3728,13,Dapur Nusantara,Food & Beverage,
+3752,86,Daily Needs Center,Retail Goods,29.0
+3766,21,NextGen Fashion,Retail Goods,29.0
+3767,86,Sate Rakyat,Food & Beverage,49.0
+3770,51,Bakmi Express,Food & Beverage,49.0
+3778,33,Mie Pedas Juara,Food & Beverage,49.9
+3780,75,Dimsum Daily,Food & Beverage,49.9
+3804,37,Ayam Bakar Premium,Food & Beverage,49.0
+3808,75,HomeLiving Mart,Retail Goods,
+3821,35,Mie Pedas Juara,Food & Beverage,49.0
+3822,37,Kopi Nusantara,Food & Beverage,49.0
+3832,21,Smart Living Store,Retail Goods,29.9
+3835,91,TechHub Store,Retail Goods,29.0
+3847,86,Roti Bakar Society,Food & Beverage,49.0
+3862,27,GadgetPoint,Retail Goods,0.0
+3884,20,GadgetPoint,Retail Goods,29.0
+3902,26,Kedai Kopi Santai,Food & Beverage,49.9
+3916,75,Mie Pedas Juara,Food & Beverage,0.0
+3919,43,TechHub Store,Retail Goods,29.0
+3920,25,Mie Ayam Corner,Food & Beverage,49.0
+3930,16,Sate Rakyat,Food & Beverage,49.9
+3935,75,Kopi Nusantara,Food & Beverage,49.0
+3936,85,Martabak Legit,Food & Beverage,49.0
+3937,44,Mie Pedas Juara,Food & Beverage,49.0
+3938,44,Mie Ayam Corner,Food & Beverage,49.0
+3943,44,Mie Ayam Corner,Food & Beverage,49.0
+3961,20,Nasi Goreng Express,Food & Beverage,49.9
+3965,28,Soto Nusantara,Food & Beverage,49.9
+3966,85,Kedai Matcha,Food & Beverage,49.9
+3968,85,Ayam Geprek Juara,Food & Beverage,49.0
+3973,85,Skincare Society,Retail Goods,29.9
+3984,85,Mie Ayam Corner,Food & Beverage,49.0
+3986,85,Sate Rakyat,Food & Beverage,49.0
+3987,85,Seblak Corner,Food & Beverage,49.0
+3995,85,Digital Lifestyle,Retail Goods,29.0
+3996,85,Mie Ayam Corner,Food & Beverage,49.0
+4002,43,Seblak Corner,Food & Beverage,49.0
+4003,85,Martabak Legit,Food & Beverage,49.0
+4009,33,GadgetPoint,Retail Goods,29.9
+4012,13,Rice Bowl Station,Food & Beverage,0.0
+4015,37,Rice Bowl Station,Food & Beverage,49.0
+4016,85,Martabak Legit,Food & Beverage,49.0
+4022,18,Mie Pedas Juara,Food & Beverage,49.0
+4023,8,Seblak Corner,Food & Beverage,49.0
+4025,37,Dimsum Daily,Food & Beverage,49.9
+4026,25,Sate Rakyat,Food & Beverage,49.9
+4058,85,Kedai Kopi Santai,Food & Beverage,49.0
+4064,85,Bakso Rakyat,Food & Beverage,49.0
+4072,44,Pecel Lele Juara,Food & Beverage,49.0
+4097,51,Pecel Lele Juara,Food & Beverage,49.0
+4105,8,Daily Needs Center,Retail Goods,
+4109,17,Trendify,Retail Goods,
+4110,31,Urban Essentials,Retail Goods,
+4121,21,Digital Lifestyle,Retail Goods,29.0
+4132,43,Nasi Goreng Express,Food & Beverage,49.0
+4139,86,Nasi Goreng Express,Food & Beverage,49.0
+4142,18,Mie Pedas Juara,Food & Beverage,49.9
+4151,85,Martabak Legit,Food & Beverage,49.9
+4153,44,Bakso Rakyat,Food & Beverage,49.0
+4157,51,NextGen Fashion,Retail Goods,49.0
+4159,29,Martabak Legit,Food & Beverage,49.9
+4161,26,Daily Needs Center,Retail Goods,29.0
+4164,26,GadgetPoint,Retail Goods,29.0
+4165,26,Daily Needs Center,Retail Goods,29.0
+4167,26,DailyMart,Retail Goods,29.0
+4170,26,Sneaker Nation,Retail Goods,29.0
+4171,26,Sneaker Nation,Retail Goods,29.9
+4181,26,Skincare Society,Retail Goods,29.0
+4184,26,Glow Beauty,Retail Goods,29.0
+4195,26,HomeLiving Mart,Retail Goods,29.0
+4199,26,Trendify,Retail Goods,29.0
+4200,8,Kedai Matcha,Food & Beverage,49.0
+4201,85,Smart Living Store,Retail Goods,49.0
+4202,26,Glow Beauty,Retail Goods,29.0
+4203,22,Kedai Matcha,Food & Beverage,49.0
+4204,22,Kopi Nusantara,Food & Beverage,49.0
+4206,85,Bakso Rakyat,Food & Beverage,49.0
+4207,16,Nasi Goreng Express,Food & Beverage,49.0
+4208,26,Daily Needs Center,Retail Goods,29.0
+4210,33,Mie Ayam Corner,Food & Beverage,
+4211,29,Mie Pedas Juara,Food & Beverage,
+4213,17,Ayam Geprek Juara,Food & Beverage,
+4214,44,Dimsum Daily,Food & Beverage,
+4243,85,NextGen Fashion,Retail Goods,29.0
+4245,33,NextGen Fashion,Retail Goods,29.0
+4255,85,Electronic City,Retail Goods,49.0
+4262,85,Glow Beauty,Retail Goods,29.0
+4264,85,Trendify,Retail Goods,29.9
+4266,75,Skincare Society,Retail Goods,29.9
+4271,17,Martabak Legit,Food & Beverage,49.0
+4272,75,Sneaker Nation,Retail Goods,29.0
+4292,75,Bakso Rakyat,Food & Beverage,49.0
+4296,85,DailyMart,Retail Goods,29.0
+4299,21,Smart Living Store,Retail Goods,29.9
+4300,33,Dimsum Daily,Food & Beverage,49.9
+4302,42,Rice Bowl Station,Food & Beverage,49.0
+4305,20,Roti Bakar Society,Food & Beverage,0.0
+4314,25,Rice Bowl Station,Food & Beverage,
+4315,27,Seblak Corner,Food & Beverage,0.0
+4316,43,Ayam Geprek Juara,Food & Beverage,0.0
+4317,85,HomeLiving Mart,Retail Goods,29.0
+4320,21,NextGen Fashion,Retail Goods,29.0
+4328,27,Daily Needs Center,Retail Goods,29.0
+4329,55,Style Avenue,Retail Goods,1.0
+4334,44,Mie Pedas Juara,Food & Beverage,
+4335,20,Nasi Goreng Express,Food & Beverage,49.0
+4336,26,DailyMart,Retail Goods,29.0
+4344,31,Electronic City,Retail Goods,1.0
+4347,36,NextGen Fashion,Retail Goods,1.0
+4348,28,Digital Lifestyle,Retail Goods,1.0
+4352,35,Skincare Society,Retail Goods,1.0
+4354,33,Dapur Nusantara,Food & Beverage,49.9
+4355,13,Smart Living Store,Retail Goods,1.0
+4373,86,Mie Ayam Corner,Food & Beverage,49.0
+4386,28,Electronic City,Retail Goods,29.9
+4388,29,Glow Beauty,Retail Goods,29.9
+4389,85,Daily Needs Center,Retail Goods,1.0
+4396,85,GadgetPoint,Retail Goods,29.0
+4398,37,Modern Mart,Retail Goods,29.0
+4402,51,Soto Nusantara,Food & Beverage,49.0
+4403,13,Daily Needs Center,Retail Goods,29.0
+4434,35,Skincare Society,Retail Goods,49.0
+4439,75,UrbanWear,Retail Goods,49.0
+4440,75,Glow Beauty,Retail Goods,49.0
+4441,35,Trendify,Retail Goods,29.0
+4442,35,Style Avenue,Retail Goods,29.0
+4443,75,Style Avenue,Retail Goods,49.0
+4447,35,UrbanWear,Retail Goods,
+4448,35,Skincare Society,Retail Goods,29.0
+4449,35,Style Avenue,Retail Goods,29.0
+4451,13,GadgetPoint,Retail Goods,49.9
+4452,43,HomeLiving Mart,Retail Goods,49.0
+4453,42,FreshMart,Retail Goods,49.0
+4459,13,Urban Essentials,Retail Goods,29.0
+4462,37,Electronic City,Retail Goods,29.0
+4467,37,Skincare Society,Retail Goods,29.9
+4483,85,HomeLiving Mart,Retail Goods,29.0
+4484,35,Style Avenue,Retail Goods,29.0
+4488,36,Bakso Rakyat,Food & Beverage,49.0
+4489,29,FreshMart,Retail Goods,
+4491,13,Glow Beauty,Retail Goods,
+4498,85,FreshMart,Retail Goods,49.0
+4510,33,Ayam Bakar Premium,Food & Beverage,
+4512,20,Bakso Rakyat,Food & Beverage,49.9
+4524,35,Beauty Avenue,Retail Goods,29.0
+4531,37,Beauty Avenue,Retail Goods,49.0
+4553,85,DailyMart,Retail Goods,
+4556,37,Kedai Matcha,Food & Beverage,49.0
+4558,86,Beauty Avenue,Retail Goods,49.0
+4559,85,Modern Mart,Retail Goods,49.0
+4564,25,FreshMart,Retail Goods,49.0
+4567,85,NextGen Fashion,Retail Goods,49.0
+4568,85,Digital Lifestyle,Retail Goods,49.0
+4572,85,Smart Living Store,Retail Goods,49.0
+4585,85,GadgetPoint,Retail Goods,49.0
+4587,85,Electronic City,Retail Goods,49.0
+4596,44,Glow Beauty,Retail Goods,29.0
+4605,85,Beauty Avenue,Retail Goods,49.0
+4611,36,Roti Bakar Society,Food & Beverage,49.0
+4624,27,Beauty Avenue,Retail Goods,0.0
+4625,8,DailyMart,Retail Goods,0.0
+4637,16,Warung Sambal Juara,Food & Beverage,
+4645,44,Urban Essentials,Retail Goods,29.9
+4648,86,Kopi Nusantara,Food & Beverage,49.9
+4650,25,Kedai Kopi Santai,Food & Beverage,0.0
+4660,85,Electronic City,Retail Goods,49.9
+4664,29,Modern Mart,Retail Goods,49.0
+4669,21,GadgetPoint,Retail Goods,29.0
+4671,25,Sneaker Nation,Retail Goods,49.9
+4675,13,Urban Essentials,Retail Goods,29.0
+4676,75,Fashion Hub,Retail Goods,49.9
+4679,85,Pecel Lele Juara,Food & Beverage,49.9

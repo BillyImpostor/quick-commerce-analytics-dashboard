@@ -1,0 +1,41 @@
+channel_id,sales_channel,channel_category
+1,General Commerce,Internal Platform
+2,Call Center,Internal Platform
+3,ChatOrder,Internal Platform
+4,SocialMarket,Internal Platform
+5,GoMeal,External Marketplace
+6,Direct Store,Internal Platform
+7,MetroMart,Internal Platform
+8,UrbanMart,Internal Platform
+9,SmartCommerce,Internal Platform
+10,NusantaraMart,Internal Platform
+11,HyperMart Online,Internal Platform
+12,DailyCommerce,External Marketplace
+13,FlashOrder,External Marketplace
+15,QuickBite,External Marketplace
+17,ShopHub,External Marketplace
+20,MUNICH PLACE,External Marketplace
+21,LONDON PLACE,External Marketplace
+23,ATCHIN PLACE,External Marketplace
+24,FULL PLACE,External Marketplace
+25,ON PLACE,External Marketplace
+28,REGISTER PLACE,External Marketplace
+29,GLUB PLACE,External Marketplace
+30,SPEED PLACE,External Marketplace
+31,SEARCH PLACE,External Marketplace
+32,BEATLES PLACE,External Marketplace
+33,SAN PLACE,External Marketplace
+34,AHORA PLACE,External Marketplace
+35,BRAZIL PLACE,External Marketplace
+36,OWN PLACE,Internal Platform
+37,LONGO PLACE,External Marketplace
+38,WEAR PLACE,External Marketplace
+39,RONALD PLACE,External Marketplace
+41,PANCEPS PLACE,External Marketplace
+42,OFF PLACE,External Marketplace
+43,CAICAI PLACE,External Marketplace
+44,READY PLACE,Internal Platform
+46,CHOCO PLACE,Internal Platform
+47,PORTO PLACE,External Marketplace
+48,CENTER PLACE,External Marketplace
+49,RIBA PLACE,Internal Platform

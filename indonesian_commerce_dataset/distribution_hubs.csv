@@ -1,0 +1,33 @@
+hub_id,distribution_hub,city,province
+2,Surabaya Distribution Center,Surabaya,Jawa Timur
+3,East Java Fulfillment Hub,Surabaya,Jawa Timur
+4,Central Surabaya Hub,Surabaya,Jawa Timur
+5,Jakarta Urban Hub,Jakarta,DKI Jakarta
+8,Jakarta Central Warehouse,Jakarta,DKI Jakarta
+13,Bandung Commerce Hub,Jakarta,DKI Jakarta
+16,West Jakarta Hub,Jakarta,DKI Jakarta
+17,South Jakarta Fulfillment Center,Bandung,Jawa Barat
+18,Bandung Distribution Point,Jakarta,DKI Jakarta
+20,Yogyakarta Smart Hub,Jakarta,DKI Jakarta
+21,Central Java Warehouse,Bandung,Jawa Barat
+22,East Bandung Hub,Jakarta,DKI Jakarta
+25,Jakarta Fulfillment Center,Bandung,Jawa Barat
+26,Digital Commerce Hub,Bandung,Jawa Barat
+27,National Logistics Center,Bandung,Jawa Barat
+28,RAP SHOPPING,Bandung,Jawa Barat
+29,SUBWAY SHOPPING,Bandung,Jawa Barat
+31,PAGODE SHOPPING,Bandung,Jawa Barat
+33,COFFEE SHOPPING,Bandung,Jawa Barat
+35,BEACH SHOPPING,Jakarta,DKI Jakarta
+36,BLACK SHOPPING,Surabaya,Jawa Timur
+37,RIVER SHOPPING,Bandung,Jawa Barat
+42,PHP SHOPPING,Yogyakarta,DI Yogyakarta
+43,HOTMILK SHOPPING,Yogyakarta,DI Yogyakarta
+44,FORTRAN SHOPPING,Yogyakarta,DI Yogyakarta
+51,RUBY SHOPPING,Jakarta,DKI Jakarta
+55,ELIXIR SHOPPING,Bandung,Jawa Barat
+73,HUBLESS SHOPPING,Bandung,Jawa Barat
+75,PYTHON SHOPPING,Yogyakarta,DI Yogyakarta
+85,REACT SHOPPING,Bandung,Jawa Barat
+86,R SHOPPING,Bandung,Jawa Barat
+91,GAROA SHOPPING,Bandung,Jawa Barat
