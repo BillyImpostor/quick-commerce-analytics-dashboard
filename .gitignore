@@ -1,3 +1,5 @@
 # Image
 image/
-*.png
+
+# Data
+indonesian_commerce_dataset/
