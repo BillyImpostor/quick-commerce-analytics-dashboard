@@ -82,5 +82,4 @@ quick-commerce-analytics-dashboard/
 
 ## 👤 Author
 
-**Cheisa Billy Putra Antoni**<br>**Talenta Julyanti Naibaho**
-📅 July 3, 2026
+**Cheisa Billy Putra Antoni**<br>**Talenta Julyanti Naibaho**<br>📅 July 3, 2026
