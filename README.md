@@ -23,6 +23,11 @@
 ```
 quick-commerce-analytics-dashboard/
 │
+├── image/
+│   ├── operasional.png
+│   ├── ringkasan.png
+│   └── wilayah.png
+│
 ├── indonesian_commerce_dataset/
 │   ├── customer_orders.csv
 │   ├── delivery_transactions.csv
@@ -43,18 +48,18 @@ quick-commerce-analytics-dashboard/
 
 | Halaman        | Fitur                | Deskripsi                           |
 | :--- | :--- | :--- |
-| **0. Global** | Slicer / Filter Interaktif | Tombol navigasi cepat untuk memfilter seluruh data dashboard berdasarkan kota operasional (Bandung, Jakarta, Surabaya, Yogyakarta), lengkap dengan fitur *Deselect all*. |
-| **1. Ringkasan** | KPI Cards | Menampilkan metrik utama bisnis: *Total Order*, *Total Delivery Fee*, *Total Revenue*, *Total Transaction Fee*, serta persentase *Order Delivered* dan *Order Completed*. |
+| **Global** | Slicer / Filter Interaktif | Tombol navigasi cepat untuk memfilter seluruh data dashboard berdasarkan kota operasional (Bandung, Jakarta, Surabaya, Yogyakarta), lengkap dengan fitur *Deselect all*. |
+| **Ringkasan** | KPI Cards | Menampilkan metrik utama bisnis: *Total Order*, *Total Delivery Fee*, *Total Revenue*, *Total Transaction Fee*, serta persentase *Order Delivered* dan *Order Completed*. |
 | | Combo Chart (Bar + Line) | Sebaran Nilai Transaksi (Januari - April 2021): Menganalisis perbandingan bulanan antara total biaya pengiriman, biaya transaksi, dan volume total order. |
 | | Horizontal Bar Chart | Top 5 Metode Pembayaran: Mengidentifikasi metode pembayaran yang paling populer (E-Wallet, Promo Voucher, Debit Card, dll). |
 | | Horizontal Bar Chart | Top 5 Nama Merchant: Menampilkan merchant dengan kontribusi volume transaksi tertinggi (seperti Dimsum Daily, Rice Bowl, dll). |
 | | Area / Line Chart | Tren Total Revenue: Melihat grafik fluktuasi pertumbuhan pendapatan bisnis dari bulan ke bulan selama periode Q1 2021. |
-| **2. Operasional** | KPI Cards | Menampilkan rata-rata efisiensi logistik: *Avg Delivery Duration*, *Avg Delivery Distance*, *Avg Preparation Time*, dan *Avg Fulfillment Duration*. |
+| **Operasional** | KPI Cards | Menampilkan rata-rata efisiensi logistik: *Avg Delivery Duration*, *Avg Delivery Distance*, *Avg Preparation Time*, dan *Avg Fulfillment Duration*. |
 | | Grouped Bar Chart | Sebaran Rata-rata Operasional vs Jenis Kendaraan: Membandingkan efisiensi jarak dan waktu pengiriman antara armada Motor (*Motorcycle*) dan Sepeda (*Bicycle*). |
 | | Grouped Bar Chart | Sebaran Rata-rata Durasi vs Kategori Bisnis: Menganalisis perbandingan waktu penyiapan dan pemenuhan order antara kategori *Retail Goods* dan *Food & Beverage*. |
 | | Donut Chart | Proporsi Status Order & Status Pembayaran: Visualisasi persentase rasio order sukses vs gagal (*Completed* vs *Canceled*) serta status kelancaran transaksi (*Paid*, *Refunded*, *Pending*). |
 | | Horizontal Bar Chart | Sebaran Nilai Transaksi via Kategori Channel: Membandingkan performa penjualan yang datang dari *External Marketplace* vs *Internal Platform*. |
-| **3. Wilayah** | KPI Cards | Menampilkan kapasitas operasional fisik: *Total Distribution Hub*, *Total Payment Method*, *Total Merchant*, dan *Total Delivery Cost*. |
+| **Wilayah** | KPI Cards | Menampilkan kapasitas operasional fisik: *Total Distribution Hub*, *Total Payment Method*, *Total Merchant*, dan *Total Delivery Cost*. |
 | | Line Chart | Tren Nilai Transaksi Berdasarkan Waktu: Menganalisis pola perilaku transaksi pengguna berdasarkan waktu pemesanan (Pagi, Siang, Sore, Malam, Tengah Malam). |
 | | Donut Chart | Proporsi Kota Operasional: Melihat sebaran pangsa pasar dan kontribusi transaksi terbesar antar kota (didominasi oleh Bandung dan Jakarta). |
 | | Map Visual | Peta Interaktif Kota Operasional: Visualisasi geografis langsung untuk pemetaan titik persebaran logistik di Pulau Jawa. |
@@ -77,6 +82,5 @@ quick-commerce-analytics-dashboard/
 
 ## 👤 Author
 
-**Cheisa Billy Putra Antoni**
-**Talenta Julyanti Naibaho**
+**Cheisa Billy Putra Antoni**<br>**Talenta Julyanti Naibaho**
 📅 July 3, 2026
